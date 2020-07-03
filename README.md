@@ -1,2 +1,2 @@
-# ShatakshiSingh21.guithub.io
+# ShatakshiSingh21.github.io
 The website for Web Design
